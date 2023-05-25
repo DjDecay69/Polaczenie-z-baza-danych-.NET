@@ -1,0 +1,12 @@
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\bin\Debug\Zadanie.NET_13._04._2023.exe.config
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\bin\Debug\Zadanie.NET_13._04._2023.exe
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\bin\Debug\Zadanie.NET_13._04._2023.pdb
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\obj\Debug\Zadanie .NET 13.04.2023.csproj.AssemblyReference.cache
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\obj\Debug\Zadanie.NET_13._04._2023.Form1.resources
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\obj\Debug\Zadanie.NET_13._04._2023.Properties.Resources.resources
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\obj\Debug\Zadanie .NET 13.04.2023.csproj.GenerateResource.cache
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\obj\Debug\Zadanie .NET 13.04.2023.csproj.CoreCompileInputs.cache
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\obj\Debug\Zadanie.NET_13._04._2023.exe
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\obj\Debug\Zadanie.NET_13._04._2023.pdb
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\obj\Debug\Zadanie.NET_13._04._2023.Druzyna.resources
+E:\Zajęcia .NET 13.04.2023\Zadanie .NET 13.04.2023\Zadanie .NET 13.04.2023\obj\Debug\Zadanie.NET_13._04._2023.Gracz.resources
